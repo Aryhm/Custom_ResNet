@@ -1,4 +1,4 @@
-# Modified_ResNet
+# Custom_ResNet
 Modified ResNet refers to customizations or adjustments made to the original ResNet architecture to suit specific requirements or tasks. These modifications can vary depending on the application and the goals of the researchers or practitioners.
 ResNet was introduced by researchers at Microsoft in 2015 and was designed to address the problem of vanishing gradients in deep neural networks. It utilizes residual blocks, which allow the network to learn residual mappings instead of directly learning the desired underlying mappings. This makes it easier for the network to optimize and train deeper architectures.
 Some common modifications include changing the number of layers, adjusting the block structures, adding or removing specific components, or incorporating additional techniques to enhance performance.
